@@ -15,7 +15,6 @@ $ pip discord.py
 $ pip langchain
 $ pip langchain-core
 $ pip langchain-community
-$ pip langchain-community
 $ pip langchain-openai
 ```
 
